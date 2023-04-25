@@ -2038,7 +2038,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   float: left;
   width: 100%;
   padding: 0;
-  margin: 20;
+  margin: 0;
 }
 #portfolio .bricks-wrapper .brick:nth-child(2n+1) {
   clear: both;
