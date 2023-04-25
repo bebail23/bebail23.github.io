@@ -353,7 +353,7 @@ textarea {
 }
 
 .row .row {
-  width: 33%;
+  width: none;
   max-width: none;
   margin-left: -20px;
   margin-right: -20px;
