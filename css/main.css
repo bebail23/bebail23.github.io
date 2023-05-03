@@ -2086,7 +2086,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-size: 3rem;
   z-index: 1;
   display: block;
-  height: 30px;
+  height: 130px;
   width: 30px;
   line-height: 30px;
   margin-left: -15px;
@@ -2133,7 +2133,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   display: block;
   background-color: transparent;
   border: 1px solid rgba(255, 255, 255, 0.3);
-  height: 104.6rem;
+  height: 4.6rem;
   width: 4.6rem;
   line-height: 4.6rem;
   color: white;
