@@ -1620,7 +1620,7 @@ header .header-logo a {
   padding-left: 9px;
 }
 .scrolldown a:hover, .scrolldown a:focus, .scrolldown a:active {
-  color: #151515 !important;
+  color: #07617d !important;
 }
 
 html[data-useragent*='MSIE 10.0'] .scrolldown,
@@ -1634,7 +1634,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .3rem;
-  color: #07617d !important;
+  color: #000000 !important;
   background: transparent;
   position: relative;
   top: 36px;
