@@ -176,7 +176,7 @@ em, i, strong, b {
 }
 
 em, i {
-  font-family: "librebaskerville-italic", serif;
+  font-family: "montserrat-bold", sans-serif;
 }
 
 strong, b {
@@ -1262,7 +1262,7 @@ header .header-logo a {
   border: none;
   width: 57px;
   height: 37px;
-  background: url("../logo.png") no-repeat center;
+  /*background: url("../logo.png") no-repeat center;*/
   background-size: 37px 37px;
   font: 0/0 a;
   text-shadow: none;
@@ -1289,7 +1289,7 @@ header .header-logo a {
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .2rem;
-  color: rgba(255, 255, 255, 0.5);
+  color: #000000;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -1297,13 +1297,13 @@ header .header-logo a {
   transition: all 0.3s ease-in-out;
 }
 #header-menu-trigger.opaque {
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 #header-menu-trigger.opaque .header-menu-text {
-  background-color: #000000;
+  background-color: #FFFFFF;
 }
 #header-menu-trigger:hover, #header-menu-trigger:focus {
-  color: #FFFFFF;
+  color: #07617d;
 }
 #header-menu-trigger .header-menu-text {
   display: block;
@@ -1323,7 +1323,7 @@ header .header-logo a {
   display: block;
   height: 3px;
   width: 24px;
-  background-color: #FFFFFF;
+  background-color: #000000;
   position: absolute;
   top: 50%;
   right: 9px;
